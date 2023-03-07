@@ -444,6 +444,33 @@
             border: 2px solid #ccc;
             width: 10%;
         }
+          .pink1{
+            width: 10%;
+            border: 2px solid crimson;
+
+        }
+        .white1{
+            border: 2px solid #ccc;
+            width: 90%;
+        }
+          .pink2{
+            width: 40%;
+            border: 2px solid crimson;
+
+        }
+        .white2{
+            border: 2px solid #ccc;
+            width: 60%;
+        }
+          .pink3{
+            width: 70%;
+            border: 2px solid crimson;
+
+        }
+        .white3{
+            border: 2px solid #ccc;
+            width: 30%;
+        }
         .skills{
             display: flex;
             height: 400px;
@@ -819,6 +846,7 @@
 
         .second ul{
             background-color: black;
+            opacity: 0.8;
             height: 100vh;
             width: 100%;
             position: fixed;
